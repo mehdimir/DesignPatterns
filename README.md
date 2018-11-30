@@ -8,7 +8,7 @@ Allright, lets get started:
 EXAMPLE: audit all writes to database. how do you do it? you can use proxy for it!
 
 
-EXAMPLE: showing a report to user that is combination of multiple reports that you already have. use facade pattern.
+EXAMPLE: showing a report to user that is combination of multiple reports that you already have. use facade pattern. ref: https://egkatzioura.com/2018/07/25/structural-design-patterns-bridge-pattern/
 
 EXAMPLE: exporting same data to different formats: use stategy pattern
 
